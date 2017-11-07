@@ -382,7 +382,7 @@ so that you and other people can put those programs into pipes to multiply their
 > ## Why does `uniq` only remove adjacent duplicates? {.challenge}
 >
 > The command `uniq` removes adjacent duplicated lines from its input.
-> For example, if a file `salmon.txt` contains:
+> For example, if a file `salmon.txt` (in the `data` directory) contains:
 > 
 > ~~~
 > coho
@@ -408,7 +408,7 @@ so that you and other people can put those programs into pipes to multiply their
 
 > ## Pipe reading comprehension {.challenge}
 >
-> A file called `animals.txt` contains the following data:
+> A file called `animals.txt` (in the `data` directory) contains the following data:
 > 
 > ~~~
 > 2012-11-05,deer
